@@ -119,3 +119,10 @@ section {
   font-size: 12px;
   text-align: right;
 }
+
+.summary {
+  font-size: 13px;
+  color: #333;
+  line-height: 1.7;
+  text-align: justify;
+}
